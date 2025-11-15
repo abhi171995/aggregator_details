@@ -1,0 +1,118 @@
+{
+  "categories": [
+    {
+      "id": "personal_loan",
+      "name": "Personal Loan",
+      "color": "#4A6CF7",
+      "icon": ""
+    },
+    {
+      "id": "instant_loan",
+      "name": "Instant Loan",
+      "color": "#A268F7",
+      "icon": ""
+    },
+    {
+      "id": "credit_line",
+      "name": "Credit Line",
+      "color": "#4BE3AC",
+      "icon": ""
+    },
+    {
+      "id": "credit_card",
+      "name": "Credit Card",
+      "color": "#FF6B9D",
+      "icon": ""
+    },
+    {
+      "id": "business_loan",
+      "name": "Business Loan",
+      "color": "#FFA94D",
+      "icon": ""
+    },
+    {
+      "id": "gold_loan",
+      "name": "Gold Loan",
+      "color": "#FFD700",
+      "icon": ""
+    }
+  ],
+
+  "providers": [
+    {
+      "name": "MoneyTap",
+      "interest": "13%",
+      "limit": "Up to ₹5L",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://moneytap.com"
+    },
+    {
+      "name": "PaySense",
+      "interest": "16%",
+      "limit": "Up to ₹10L",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://paysense.com"
+    },
+    {
+      "name": "KreditBee",
+      "interest": "14%",
+      "limit": "Up to ₹4L",
+      "logo": "",
+      "categoryId": "instant_loan",
+      "redirectUrl": "https://kreditbee.in"
+    },
+    {
+      "name": "LazyPay",
+      "interest": "15%",
+      "limit": "Up to ₹1L",
+      "logo": "",
+      "categoryId": "credit_line",
+      "redirectUrl": "https://lazypay.com"
+    },
+    {
+      "name": "Bajaj Finserv",
+      "interest": "12%",
+      "limit": "Up to ₹25L",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.bajajfinserv.in"
+    },
+    {
+      "name": "Muthoot Finance",
+      "interest": "9%",
+      "limit": "Up to ₹2L",
+      "logo": "",
+      "categoryId": "gold_loan",
+      "redirectUrl": "https://www.muthootfinance.com"
+    }
+  ],
+
+  "topProviders": [
+    {
+      "name": "MoneyTap",
+      "interest": "13%",
+      "limit": "Up to ₹5L",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://moneytap.com"
+    },
+    {
+      "name": "PaySense",
+      "interest": "16%",
+      "limit": "Up to ₹10L",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://paysense.com"
+    },
+    {
+      "name": "KreditBee",
+      "interest": "14%",
+      "limit": "Up to ₹4L",
+      "logo": "",
+      "categoryId": "instant_loan",
+      "redirectUrl": "https://kreditbee.in"
+    }
+  ]
+}
