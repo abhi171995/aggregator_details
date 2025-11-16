@@ -168,13 +168,13 @@
       "categoryId": "business_loan",
       "redirectUrl": "https://www.bajajfinserv.in"
     },
-       {
+    {
       "name": "Nira Finance",
       "interest": "15% - 32%",
       "limit": "₹5,000 - ₹4,00,000",
       "logo": "",
       "categoryId": "instant_loan",
       "redirectUrl": "https://kreditbee.in"
-    },
+    }
   ]
 }
