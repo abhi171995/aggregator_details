@@ -41,78 +41,126 @@
   "providers": [
     {
       "name": "MoneyTap",
-      "interest": "13%",
-      "limit": "Up to ₹5L",
+      "interest": "13% - 24%",
+      "limit": "₹3,000 - ₹5,00,000",
       "logo": "",
       "categoryId": "personal_loan",
       "redirectUrl": "https://moneytap.com"
     },
     {
       "name": "PaySense",
-      "interest": "16%",
-      "limit": "Up to ₹10L",
+      "interest": "12% - 28%",
+      "limit": "₹5,000 - ₹10,00,000",
       "logo": "",
       "categoryId": "personal_loan",
       "redirectUrl": "https://paysense.com"
     },
     {
+      "name": "CASHe",
+      "interest": "14% - 30%",
+      "limit": "₹1,000 - ₹3,00,000",
+      "logo": "",
+      "categoryId": "instant_loan",
+      "redirectUrl": "https://cashe.co.in"
+    },
+    {
       "name": "KreditBee",
-      "interest": "14%",
-      "limit": "Up to ₹4L",
+      "interest": "15% - 32%",
+      "limit": "₹1,000 - ₹4,00,000",
       "logo": "",
       "categoryId": "instant_loan",
       "redirectUrl": "https://kreditbee.in"
     },
     {
       "name": "LazyPay",
-      "interest": "15%",
-      "limit": "Up to ₹1L",
+      "interest": "15% - 28%",
+      "limit": "₹1,000 - ₹1,00,000",
       "logo": "",
       "categoryId": "credit_line",
       "redirectUrl": "https://lazypay.com"
     },
     {
-      "name": "Bajaj Finserv",
-      "interest": "12%",
-      "limit": "Up to ₹25L",
+      "name": "NIRA",
+      "interest": "14% - 24%",
+      "limit": "₹5,000 - ₹1,00,000",
+      "logo": "",
+      "categoryId": "credit_line",
+      "redirectUrl": "https://nirafinance.com"
+    },
+    {
+      "name": "OneCard",
+      "interest": "0% - 36%",
+      "limit": "Credit Limit ₹10,000 - ₹2,00,000",
+      "logo": "",
+      "categoryId": "credit_card",
+      "redirectUrl": "https://getonecard.app"
+    },
+    {
+      "name": "Amazon Pay ICICI Card",
+      "interest": "0% - 36%",
+      "limit": "Credit Limit ₹20,000 - ₹3,00,000",
+      "logo": "",
+      "categoryId": "credit_card",
+      "redirectUrl": "https://www.amazon.in/cbc/cc/icici"
+    },
+    {
+      "name": "Bajaj Finserv Business Loan",
+      "interest": "12% - 25%",
+      "limit": "₹1,00,000 - ₹50,00,000",
       "logo": "",
       "categoryId": "business_loan",
       "redirectUrl": "https://www.bajajfinserv.in"
     },
     {
-      "name": "Muthoot Finance",
-      "interest": "9%",
-      "limit": "Up to ₹2L",
+      "name": "LendingKart",
+      "interest": "15% - 28%",
+      "limit": "₹50,000 - ₹2,00,00,000",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.lendingkart.com"
+    },
+    {
+      "name": "Muthoot Gold Loan",
+      "interest": "9% - 24%",
+      "limit": "₹2,000 - ₹3,00,000",
       "logo": "",
       "categoryId": "gold_loan",
       "redirectUrl": "https://www.muthootfinance.com"
+    },
+    {
+      "name": "Manappuram Gold Loan",
+      "interest": "8% - 26%",
+      "limit": "₹1,000 - ₹5,00,000",
+      "logo": "",
+      "categoryId": "gold_loan",
+      "redirectUrl": "https://www.manappuram.com"
     }
   ],
 
   "topProviders": [
     {
       "name": "MoneyTap",
-      "interest": "13%",
-      "limit": "Up to ₹5L",
+      "interest": "13% - 24%",
+      "limit": "₹3,000 - ₹5,00,000",
       "logo": "",
       "categoryId": "personal_loan",
       "redirectUrl": "https://moneytap.com"
     },
     {
-      "name": "PaySense",
-      "interest": "16%",
-      "limit": "Up to ₹10L",
-      "logo": "",
-      "categoryId": "personal_loan",
-      "redirectUrl": "https://paysense.com"
-    },
-    {
       "name": "KreditBee",
-      "interest": "14%",
-      "limit": "Up to ₹4L",
+      "interest": "15% - 32%",
+      "limit": "₹1,000 - ₹4,00,000",
       "logo": "",
       "categoryId": "instant_loan",
       "redirectUrl": "https://kreditbee.in"
+    },
+    {
+      "name": "Bajaj Finserv Business Loan",
+      "interest": "12% - 25%",
+      "limit": "₹1,00,000 - ₹50,00,000",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.bajajfinserv.in"
     }
   ]
 }
