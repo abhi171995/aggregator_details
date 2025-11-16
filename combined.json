@@ -40,8 +40,6 @@
 
   "providers": [
 
-    /* ---------------- EXISTING PROVIDERS ---------------- */
-
     {
       "name": "MoneyTap",
       "interest": "13% - 24%",
@@ -126,7 +124,6 @@
       "features": ["Lowest Interest", "Quick Loan", "Secure Locker Facility"]
     },
 
-    /* ---------------- NEW 10 PROVIDERS ADDED ---------------- */
 
     {
       "name": "CASHe",
