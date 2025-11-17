@@ -3,43 +3,48 @@
     {
       "id": "personal_loan",
       "name": "Personal Loan",
+      "title": "Up to ₹25L",
       "color": "#4A6CF7",
       "icon": ""
     },
     {
       "id": "instant_loan",
       "name": "Instant Loan",
+      "title": "Quick Approval",
       "color": "#A268F7",
       "icon": ""
     },
     {
       "id": "credit_line",
       "name": "Credit Line",
+      "title": "Flexible Credit",
       "color": "#4BE3AC",
       "icon": ""
     },
     {
       "id": "credit_card",
       "name": "Credit Card",
+      "title": "Compare Cards",
       "color": "#FF6B9D",
       "icon": ""
     },
     {
       "id": "business_loan",
       "name": "Business Loan",
+      "title": "For Enterprises",
       "color": "#FFA94D",
       "icon": ""
     },
     {
       "id": "gold_loan",
       "name": "Gold Loan",
+      "title": "Against Gold",
       "color": "#FFD700",
       "icon": ""
     }
   ],
 
   "providers": [
-
     {
       "name": "MoneyTap",
       "interest": "13% - 24%",
@@ -53,7 +58,6 @@
       "eligibility": ["Age 21–57 years", "Minimum salary ₹20,000/month", "Credit Score 650+"],
       "features": ["Instant Approval", "Flexible Repayment", "Zero Foreclosure Charges"]
     },
-
     {
       "name": "PaySense",
       "interest": "16% - 28%",
@@ -67,7 +71,6 @@
       "eligibility": ["Age 21–60 years", "Minimum salary ₹18,000/month"],
       "features": ["Quick Approval", "Low Documentation", "Flexible EMIs"]
     },
-
     {
       "name": "KreditBee",
       "interest": "14% - 32%",
@@ -81,7 +84,6 @@
       "eligibility": ["Age 21–55 years", "Monthly income ₹15,000"],
       "features": ["Instant Disbursement", "Quick KYC", "Short-term Loans"]
     },
-
     {
       "name": "LazyPay",
       "interest": "15% - 22%",
@@ -95,7 +97,6 @@
       "eligibility": ["Age 21+", "Stable Income"],
       "features": ["One Tap Credit", "Instant KYC", "Buy Now Pay Later"]
     },
-
     {
       "name": "Bajaj Finserv",
       "interest": "12% - 24%",
@@ -109,7 +110,6 @@
       "eligibility": ["Age 24–65 years", "Business vintage 3+ years", "CIBIL 700+"],
       "features": ["High Loan Amount", "Fast Processing", "No Collateral Required"]
     },
-
     {
       "name": "Muthoot Finance",
       "interest": "9% - 16%",
@@ -123,8 +123,6 @@
       "eligibility": ["Gold Ornaments", "Age 18+"],
       "features": ["Lowest Interest", "Quick Loan", "Secure Locker Facility"]
     },
-
-
     {
       "name": "CASHe",
       "interest": "18% - 30%",
@@ -138,7 +136,6 @@
       "eligibility": ["Age 21–58 years", "Monthly income ₹15,000+"],
       "features": ["Fast Approval", "Instant Credit", "Flexible Repayment"]
     },
-
     {
       "name": "Dhani OneFreedom",
       "interest": "14% - 28%",
@@ -152,7 +149,6 @@
       "eligibility": ["Age 18+", "Indian Resident"],
       "features": ["One Swipe Credit", "No Cost EMI", "Instant Usage"]
     },
-
     {
       "name": "Navi",
       "interest": "9.9% - 20%",
@@ -166,7 +162,6 @@
       "eligibility": ["Age 21–65 years", "PAN + Aadhaar"],
       "features": ["Instant Approval", "Low Interest", "100% Digital KYC"]
     },
-
     {
       "name": "TrueBalance",
       "interest": "15% - 32%",
@@ -180,7 +175,6 @@
       "eligibility": ["Age 18–55 years", "Stable income source"],
       "features": ["Instant KYC", "Quick Disbursement", "Low Documentation"]
     },
-
     {
       "name": "Slice",
       "interest": "0% - 18%",
@@ -194,7 +188,6 @@
       "eligibility": ["Age 18+", "Students & Salaried"],
       "features": ["0% Interest", "Instant Virtual Card", "No Joining Fee"]
     },
-
     {
       "name": "KreditZi",
       "interest": "16% - 28%",
@@ -208,7 +201,6 @@
       "eligibility": ["Age 21–55 years", "Monthly income ₹12,000+"],
       "features": ["Fast Approval", "Low Documentation"]
     },
-
     {
       "name": "EarlySalary",
       "interest": "16% - 30%",
@@ -222,7 +214,6 @@
       "eligibility": ["Age 21–55 years", "Salaried Individuals"],
       "features": ["Quick Salary Advance", "Short Term Loans"]
     },
-
     {
       "name": "SmartCoin",
       "interest": "20% - 35%",
@@ -236,7 +227,6 @@
       "eligibility": ["Age 20–55", "Regular Income"],
       "features": ["Small Ticket Loans", "Instant Disbursement"]
     },
-
     {
       "name": "ZestMoney",
       "interest": "0% - 24%",
@@ -250,7 +240,6 @@
       "eligibility": ["Age 18+", "PAN + Aadhaar"],
       "features": ["No Cost EMI", "Instant Credit", "Online Shopping EMI"]
     },
-
     {
       "name": "MoneyView",
       "interest": "12% - 30%",
@@ -263,8 +252,189 @@
       "documents": ["PAN Card", "Aadhaar Card", "Bank Statement"],
       "eligibility": ["Age 21–57 years", "Minimum income required"],
       "features": ["Fast Disbursement", "Low Paperwork", "Flexible EMIs"]
+    },
+    {
+      "name": "Fullerton India",
+      "interest": "14% - 26%",
+      "limit": "₹10,000 - ₹10,00,000",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://www.fullertonindia.com",
+      "approvalTime": "30 mins",
+      "disbursementTime": "24 Hours",
+      "documents": ["PAN Card", "Aadhaar Card", "Bank Statement"],
+      "eligibility": ["Age 21–60 years", "Salaried or Self-employed"],
+      "features": ["Unsecured Loans", "Quick Processing"]
+    },
+    {
+      "name": "IDFC First Bank",
+      "interest": "10% - 20%",
+      "limit": "₹25,000 - ₹20,00,000",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://www.idfcfirstbank.com",
+      "approvalTime": "1 day",
+      "disbursementTime": "1-2 Days",
+      "documents": ["PAN Card", "Aadhaar Card", "Bank Statement"],
+      "eligibility": ["Age 21–60 years", "Good credit history"],
+      "features": ["Low Interest Options", "Flexible Tenure"]
+    },
+    {
+      "name": "Axis Bank",
+      "interest": "11% - 22%",
+      "limit": "₹50,000 - ₹25,00,000",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.axisbank.com",
+      "approvalTime": "1 day",
+      "disbursementTime": "2-3 Days",
+      "documents": ["PAN Card", "Business Proof", "Bank Statement"],
+      "eligibility": ["Age 24–70 years", "Business vintage 2+ years"],
+      "features": ["Business Loans", "Working Capital"]
+    },
+    {
+      "name": "HDFC Bank",
+      "interest": "10% - 22%",
+      "limit": "₹50,000 - ₹50,00,000",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.hdfcbank.com",
+      "approvalTime": "1-2 days",
+      "disbursementTime": "2-4 Days",
+      "documents": ["PAN Card", "Business Proof", "GST", "Bank Statement"],
+      "eligibility": ["Age 24–70 years", "Business vintage 2+ years"],
+      "features": ["SME Loans", "Competitive Rates"]
+    },
+    {
+      "name": "ICICI Bank",
+      "interest": "9.5% - 21%",
+      "limit": "₹50,000 - ₹40,00,000",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.icicibank.com",
+      "approvalTime": "1-2 days",
+      "disbursementTime": "2-4 Days",
+      "documents": ["PAN Card", "Business Proof", "Bank Statement"],
+      "eligibility": ["Age 24–70 years", "Business vintage 2+ years"],
+      "features": ["Tailored Business Solutions", "Fast Processing"]
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "interest": "11% - 23%",
+      "limit": "₹50,000 - ₹30,00,000",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://www.kotak.com",
+      "approvalTime": "1 day",
+      "disbursementTime": "2-3 Days",
+      "documents": ["PAN Card", "Aadhaar Card", "Bank Statement"],
+      "eligibility": ["Age 21–60 years", "Salaried or Self-employed"],
+      "features": ["Quick Processing", "Competitive EMI Options"]
+    },
+    {
+      "name": "Tata Capital",
+      "interest": "10% - 24%",
+      "limit": "₹10,000 - ₹30,00,000",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://www.tatacapital.com",
+      "approvalTime": "1-2 days",
+      "disbursementTime": "2-4 Days",
+      "documents": ["PAN Card", "Aadhaar Card", "Bank Statement"],
+      "eligibility": ["Age 21–65 years", "Good credit history"],
+      "features": ["Personal & Business Loans", "Flexible Tenure"]
+    },
+    {
+      "name": "Indiabulls Dhani",
+      "interest": "15% - 30%",
+      "limit": "₹5,000 - ₹5,00,000",
+      "logo": "",
+      "categoryId": "instant_loan",
+      "redirectUrl": "https://www.dhani.com",
+      "approvalTime": "5 mins",
+      "disbursementTime": "Instant",
+      "documents": ["PAN Card", "Aadhaar Card"],
+      "eligibility": ["Age 21–60 years"],
+      "features": ["Quick Disbursal", "Flexible Repayment"]
+    },
+    {
+      "name": "Home Credit India",
+      "interest": "16% - 28%",
+      "limit": "₹2,000 - ₹2,00,000",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://www.homecredit.co.in",
+      "approvalTime": "10 mins",
+      "disbursementTime": "Same Day",
+      "documents": ["PAN Card", "Aadhaar Card", "Bank Statement"],
+      "eligibility": ["Age 18–60 years"],
+      "features": ["Consumer Loans", "EMI Options"]
+    },
+    {
+      "name": "IDFC FIRST Bank Business Loans",
+      "interest": "11% - 22%",
+      "limit": "₹1,00,000 - ₹50,00,000",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.idfcfirstbank.com",
+      "approvalTime": "2 days",
+      "disbursementTime": "2-5 Days",
+      "documents": ["PAN Card", "Business Proof", "Bank Statement", "GST"],
+      "eligibility": ["Age 24–65 years", "Business vintage 2+ years"],
+      "features": ["SME Loans", "Working Capital"]
+    },
+    {
+      "name": "FlexiLoans",
+      "interest": "18% - 36%",
+      "limit": "₹50,000 - ₹25,00,000",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.flexiloans.com",
+      "approvalTime": "1-2 days",
+      "disbursementTime": "2-3 Days",
+      "documents": ["PAN Card", "Business Proof", "Bank Statement"],
+      "eligibility": ["Age 24–65 years", "Business vintage 1+ years"],
+      "features": ["Unsecured Business Loans", "Fast Processing"]
+    },
+    {
+      "name": "Indiabulls Consumer Finance",
+      "interest": "14% - 30%",
+      "limit": "₹5,000 - ₹10,00,000",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://www.indiabullscommerce.com",
+      "approvalTime": "1 day",
+      "disbursementTime": "24 Hours",
+      "documents": ["PAN Card", "Aadhaar Card"],
+      "eligibility": ["Age 21–60 years"],
+      "features": ["Personal Loans", "Easy EMI"]
+    },
+    {
+      "name": "Oxygen Finance",
+      "interest": "16% - 30%",
+      "limit": "₹10,000 - ₹5,00,000",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://oxygenfin.com",
+      "approvalTime": "1 day",
+      "disbursementTime": "24 Hours",
+      "documents": ["PAN Card", "Aadhaar Card"],
+      "eligibility": ["Age 21–60 years"],
+      "features": ["Quick Loans", "Flexible Repayment"]
+    },
+    {
+      "name": "NeoGrowth",
+      "interest": "15% - 28%",
+      "limit": "₹50,000 - ₹1,00,00,000",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.neogrowth.in",
+      "approvalTime": "2 days",
+      "disbursementTime": "3-5 Days",
+      "documents": ["PAN Card", "Bank Statement", "Business Proof"],
+      "eligibility": ["Age 24–70 years", "Business vintage 2+ years"],
+      "features": ["Collateral-free Business Loans", "Fast Disbursal"]
     }
-
   ],
 
   "topProviders": [
@@ -291,6 +461,78 @@
       "logo": "",
       "categoryId": "instant_loan",
       "redirectUrl": "https://kreditbee.in"
+    },
+    {
+      "name": "CASHe",
+      "interest": "18%",
+      "limit": "Up to ₹4L",
+      "logo": "",
+      "categoryId": "instant_loan",
+      "redirectUrl": "https://www.cashe.co.in"
+    },
+    {
+      "name": "Slice",
+      "interest": "0% - 18%",
+      "limit": "Up to ₹10L",
+      "logo": "",
+      "categoryId": "credit_card",
+      "redirectUrl": "https://www.sliceit.com"
+    },
+    {
+      "name": "Bajaj Finserv",
+      "interest": "12%",
+      "limit": "Up to ₹25L",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.bajajfinserv.in"
+    },
+    {
+      "name": "Muthoot Finance",
+      "interest": "9% - 16%",
+      "limit": "Up to ₹2L",
+      "logo": "",
+      "categoryId": "gold_loan",
+      "redirectUrl": "https://www.muthootfinance.com"
+    },
+    {
+      "name": "IDFC First Bank",
+      "interest": "10%",
+      "limit": "Up to ₹20L",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://www.idfcfirstbank.com"
+    },
+    {
+      "name": "HDFC Bank",
+      "interest": "10% - 22%",
+      "limit": "Up to ₹50L",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.hdfcbank.com"
+    },
+    {
+      "name": "ICICI Bank",
+      "interest": "9.5% - 21%",
+      "limit": "Up to ₹40L",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.icicibank.com"
+    },
+    {
+      "name": "Axis Bank",
+      "interest": "11% - 22%",
+      "limit": "Up to ₹30L",
+      "logo": "",
+      "categoryId": "business_loan",
+      "redirectUrl": "https://www.axisbank.com"
+    },
+    {
+      "name": "Tata Capital",
+      "interest": "10% - 24%",
+      "limit": "Up to ₹30L",
+      "logo": "",
+      "categoryId": "personal_loan",
+      "redirectUrl": "https://www.tatacapital.com"
     }
   ]
 }
